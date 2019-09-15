@@ -1,0 +1,8 @@
+{
+  "name": "sample-cloud-storage",
+  "version": "0.0.1",
+  "dependencies": {
+    "mysql": "^2.16.0",
+    "@google-cloud/storage": "^1.6.0"
+  }
+}
